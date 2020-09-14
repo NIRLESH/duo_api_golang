@@ -1,0 +1,901 @@
+{
+    "response": [
+        {
+            "access_device": {
+                "browser": "Chrome Mobile",
+                "browser_version": "85.0.4183.81",
+                "flash_version": null,
+                "java_version": null,
+                "os": "Android",
+                "os_version": "10"
+            },
+            "alias": "unknown",
+            "device": null,
+            "email": null,
+            "factor": "n/a",
+            "integration": "portal",
+            "ip": "103.119.199.2",
+            "isotimestamp": "2020-08-31T07:34:51.467777+00:00",
+            "location": {
+                "city": "Muzaffarnagar",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": true,
+            "ood_software": null,
+            "reason": null,
+            "result": "SUCCESS",
+            "timestamp": 1598859291,
+            "username": "gaurav"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome Mobile",
+                "browser_version": "85.0.4183.81",
+                "flash_version": null,
+                "java_version": null,
+                "os": "Android",
+                "os_version": "10"
+            },
+            "alias": "unknown",
+            "device": null,
+            "email": null,
+            "factor": "n/a",
+            "integration": "portal",
+            "ip": "103.119.199.2",
+            "isotimestamp": "2020-08-31T07:35:44.457479+00:00",
+            "location": {
+                "city": "Muzaffarnagar",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": true,
+            "ood_software": null,
+            "reason": null,
+            "result": "SUCCESS",
+            "timestamp": 1598859344,
+            "username": "gaurav"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "84.0.4147.135",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "unknown",
+            "device": null,
+            "email": null,
+            "factor": "n/a",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-08-31T09:56:05.634530+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": true,
+            "ood_software": null,
+            "reason": null,
+            "result": "SUCCESS",
+            "timestamp": 1598867765,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "84.0.4147.135",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-08-31T09:57:06.064240+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1598867826,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "84.0.4147.135",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-08-31T09:57:49.940876+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1598867869,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "84.0.4147.135",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-08-31T10:05:33.033966+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1598868333,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "84.0.4147.105",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "unknown",
+            "device": null,
+            "email": null,
+            "factor": "n/a",
+            "integration": "Okta",
+            "ip": "103.119.199.2",
+            "isotimestamp": "2020-08-31T10:28:26.933616+00:00",
+            "location": {
+                "city": "Muzaffarnagar",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": true,
+            "ood_software": null,
+            "reason": null,
+            "result": "SUCCESS",
+            "timestamp": 1598869706,
+            "username": "grv384@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "84.0.4147.105",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "unknown",
+            "device": "+91 85275 79595",
+            "email": null,
+            "factor": "n/a",
+            "integration": "Okta",
+            "ip": "103.119.199.2",
+            "isotimestamp": "2020-08-31T10:29:23.999988+00:00",
+            "location": {
+                "city": "Muzaffarnagar",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": true,
+            "ood_software": null,
+            "reason": null,
+            "result": "SUCCESS",
+            "timestamp": 1598869763,
+            "username": "grv384@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "84.0.4147.135",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-08-31T10:38:09.345162+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1598870289,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "84.0.4147.135",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-08-31T10:41:17.426672+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1598870477,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "84.0.4147.135",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-08-31T10:48:44.373559+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1598870924,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-02T12:02:37.875787+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599048157,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": null,
+            "email": "",
+            "factor": "Passcode",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-02T12:03:37.181898+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "Invalid passcode",
+            "result": "FAILURE",
+            "timestamp": 1599048217,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Mobile Passcode",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-02T12:03:50.169154+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "Valid passcode",
+            "result": "SUCCESS",
+            "timestamp": 1599048230,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-02T12:06:59.836223+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599048419,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-03T08:54:07.101290+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599123247,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-04T11:03:33.481124+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599217413,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-04T11:12:11.825773+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599217931,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-07T06:44:29.037148+00:00",
+            "location": {
+                "city": "Ghaziabad",
+                "country": "IN",
+                "state": "Uttar Pradesh"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599461069,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-09T08:39:46.577015+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599640786,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-09T10:14:49.624436+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599646489,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-09T10:15:23.448192+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599646523,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": null,
+            "email": "",
+            "factor": "n/a",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-10T09:40:02.264202+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User cancelled",
+            "result": "FAILURE",
+            "timestamp": 1599730802,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": null,
+            "email": "",
+            "factor": "Passcode",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-10T09:40:07.386184+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "Invalid passcode",
+            "result": "FAILURE",
+            "timestamp": 1599730807,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-11T06:32:09.983001+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599805929,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-11T06:41:37.435515+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599806497,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "Okta",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-11T10:14:52.899417+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599819292,
+            "username": "nirlesh504@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": null,
+                "java_version": null,
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "unknown",
+            "device": "+91 88688 76683",
+            "email": null,
+            "factor": "SMS Passcode",
+            "integration": "portal",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-11T14:35:43.768775+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": true,
+            "ood_software": null,
+            "reason": null,
+            "result": "SUCCESS",
+            "timestamp": 1599834943,
+            "username": "nirlesh999@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "LastPass",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-11T14:38:07.169508+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599835087,
+            "username": "nirlesh999@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "Duo Push",
+            "integration": "LastPass",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-11T16:47:05.022800+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "User approved",
+            "result": "SUCCESS",
+            "timestamp": 1599842825,
+            "username": "nirlesh999@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "SMS Passcode",
+            "integration": "LastPass",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-14T06:46:56.920368+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "Valid passcode",
+            "result": "SUCCESS",
+            "timestamp": 1600066016,
+            "username": "nirlesh999@gmail.com"
+        },
+        {
+            "access_device": {
+                "browser": "Chrome",
+                "browser_version": "85.0.4183.83",
+                "flash_version": "uninstalled",
+                "java_version": "uninstalled",
+                "os": "Windows",
+                "os_version": "10"
+            },
+            "alias": "",
+            "device": "+91 88688 76683",
+            "email": "",
+            "factor": "SMS Passcode",
+            "integration": "LastPass",
+            "ip": "49.36.141.121",
+            "isotimestamp": "2020-09-14T06:49:52.694228+00:00",
+            "location": {
+                "city": "Gurgaon",
+                "country": "IN",
+                "state": "Haryana"
+            },
+            "new_enrollment": false,
+            "ood_software": null,
+            "reason": "Valid passcode",
+            "result": "SUCCESS",
+            "timestamp": 1600066192,
+            "username": "nirlesh999@gmail.com"
+        }
+    ],
+    "stat": "OK"
+}
